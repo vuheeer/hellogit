@@ -1,7 +1,7 @@
 //class.h
-#ifndef CLASS_H
+#ifnmdef CLASS_H
 #define CLASS_H
-class Class
+class Class;
 {
 	public:
 		Class();
