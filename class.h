@@ -4,8 +4,8 @@
 class Class
 {
 	public:
-		class();
-		class(int a, char b);
+		Class();
+		Class(int a, char b);
 		void SetYear(int a);
 		int GetYear();
 		void SetStream(char b);
@@ -14,3 +14,4 @@ class Class
 		int year;
 		char stream;
 }
+

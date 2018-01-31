@@ -1,5 +1,5 @@
 //main.cpp
-#include class.h
+#include "class.h"
 #include <iostream>
 #include <vector>
 using namespace std;

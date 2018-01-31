@@ -1,5 +1,5 @@
 //class.cpp
-#include class.h
+#include "class.h"
 Class::Class() {
 	year = 1;
 	stream = 'a';
